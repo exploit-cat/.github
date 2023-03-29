@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://ig.piet.co.in/">Innovation Group</a> Community!</h1><br>
+<h1 align="center">Welcome to the <a href="https://ig.piet.co.in/">Innovation Group</a>!</h1><br>
 
 <p align="center">
   <a href="https://ig.piet.co.in/">
