@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://ig.piet.co.in/">
-    <img src="https://avatars.githubusercontent.com/u/125198651" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://avatars.githubusercontent.com/u/125198651" alt="Bootstrap logo" width="200" height="200">
   </a>
 </p>
