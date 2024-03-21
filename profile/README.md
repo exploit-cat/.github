@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to the <a href="https://instructorhut.com/">Exploit Cat</a>!</h3>
+<h3 align="center">Welcome to the <a href="https://instructorhut.com/">Instructor Hut</a>!</h3>
 
 <h4>Popular Projects</h3>
 <ul>
